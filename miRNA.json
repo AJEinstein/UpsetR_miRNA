@@ -7,8 +7,7 @@
 	"meta": [
 		{ "type": "id", "index": 0, "name": "name" },
 		{ "type": "float", "index": 16, "name": "Expr_avg" },
-		{ "type": "float", "index": 17, "name": "Expr_Stdev" },
-		
+		{ "type": "float", "index": 17, "name": "Expr_Stdev" }	
 	],
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 15 }
